@@ -1,0 +1,1 @@
+new google.maps.LatLng(10.77269,106.65993), new google.maps.LatLng(10.77304,106.65971), new google.maps.LatLng(10.77257,106.65886), new google.maps.LatLng(10.77221,106.65909), 
